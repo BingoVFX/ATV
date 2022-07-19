@@ -32,7 +32,7 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProxyServer</key>
-			<string>192.168.1.104</string>
+			<string>192.168.1.101</string>
 			<key>ProxyServerPort</key>
 			<integer>8387</integer>
 			<key>ProxyType</key>
